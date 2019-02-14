@@ -1,4 +1,4 @@
-# Challenge Dévelopeur Full Stack
+# Challenge Concepteur Full Stack
 Ceci est un challenge qui sert d'entrevue technique pour le poste de concepteur logiciel chez NOVO. N'hésitez à forker ce repo. Les Pull Request seront ignorées.
 
 ## Brief
