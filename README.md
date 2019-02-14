@@ -30,11 +30,11 @@ Concevoir une application web qui permet à un médecin d'effectuer de la télé
 * Déploie ta solution sur une plateforme cloud (AWS, GCP ou Azure)
 
 ## Comment compléter ce challenge
-* Tenter de faire le maximum en 8h de travail en tablant d'abord sur vos forces 
 * Forker ce repo sur Bitbucket
 * Compléter le design et l'implémentation tel que défini au meilleur de vos compétences
 * Lorsqu'approprier, ajouter des notes dans votre code pour aider à la compréhension. Assurer que ce cela soit compréhensible pour l'équipe NOVO.
 * Compléter le travail dans votre repo Git et envoyez nous le résultat et/ou présenter le lors de votre entrevue technique.
+* Tenter de faire le maximum en 8h de travail en tablant d'abord sur vos forces .
 
 ## Qu'est-ce que nous recherchons? Qu'est-ce que cela prouve? 
 * Déterminer votre capacité à faire des hypothèses à partir de requis très limité
