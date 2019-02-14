@@ -18,7 +18,7 @@ Concevoir une application web qui permet à un médecin d'effectuer de la télé
 * Description haut-niveau du design et des technologies utilisées
 * API Serveur(en utilisant le langage de programmation et/ou le framework de votre choix)
 	* Implémenter au moins 3 appels d'API dont minimalement la mise à jour périodique des signes vitaux en utilisant des données générées aléatoirement
-	* La plupart des concepteurs chez NOVO utilisent C#/.Net Core ou Node.js côté serveur (avec MongoDB ou Firebase comme engin de BD), mais n'hésitez à utiliser votre environnement technologique préféré
+	* La plupart des concepteurs chez NOVO utilisent C#/.Net Core ou Node.js côté serveur (avec MongoDB ou Firebase comme engin de BD), mais n'hésite pas à utiliser ton environnement technologique préféré
 * Application web
 	* Implémenter une Single Page Application en utilisant un framework moderne (ex.: React ou Angular ou Vue.js) qui communique avec le serveur
 	* Cela devrait s'intégrer avec votre API, mais c'est acceptable de générer du contenu statique pour certaines pages
