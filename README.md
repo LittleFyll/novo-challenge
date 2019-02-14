@@ -1,45 +1,42 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Challenge Dévelopeur Full Stack
+Ceci est un challenge qui sert d'entrevue technique pour le poste de concepteur logiciel chez NOVO. N'hésitez à forker ce repo. Les Pull Request seront ignorées.
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+## Brief
+Concevoir une application web qui permet à un médecin d'effectuer de la télémédecine pour un groupe de patients.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+*Les solutions partielles sont acceptées* Ce n'est pas nécessaire de soumettre une solution qui implémente tous les requis.
 
----
+### Vue Tableau de bord
+* Ajouter/Supprimer les patients (Nom, Prénom, Age, Sexe, Courriel)
+* Afficher l'ensemble des patient et pour chaque patient, afficher ses signes vitaux (Fréquence cardiaque, Température, SpO2)
 
-## Edit a file
+### Vue Patient 
+* Afficher des statistiques (Min. Max. Avg.) pour chaqe signe vital
+* Envoyer un message au patient
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+## Portée du challenge
+* Description haut-niveau du design et des technologies utilisées
+* API Serveur(en utilisant le langage de programmation et/ou le framework de votre choix)
+	* Implémenter au moins 3 appels d'API dont minimalement la mise à jour périodique des signes vitaux en générant des données aléatoires
+	* La plupart des concepteurs chez NOVO utilisent C#/.Net Core ou Node.js sur le serveur (avec MongoDB ou Firebase comme engin de BD), mais n'hésitez à utiliser votre environnement technologique préféré
+* Application web
+	* Implémenter une Single Page Application en utilisant un framework moderne (ex.: React ou Angular ou Vue.js) qui communique avec le serveur
+	* Cela devrait s'intégrer avec votre API, mais c'est accepté de généré du contenu statique pour certaines pages
+* Documenter les hypothèses que vous aurez faites
+* Une solution peut ne pas être complète, par contre, ce qui est soumis doit fonctionner
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+## Tu veux nous impressionner?
+* Écrit des tests pour ton backend et/ou ton fronted
+* Déploie ta solution sur une plateforme cloud (AWS, GCP ou Azure)
 
----
+## Comment compléter ce challenge
+* Forker ce repo sur Bitbucket
+* Compléter le design et l'implémentation tel que défini au meilleur de vos compétences
+* Lorsqu'approprier, ajouter des notes dans votre code pour aider à la compréhension. Assurer que ce cela soit compréhensible pour l'équipe NOVO.
+* Compléter le travail dans votre repo Git et envoyez nous le résultat et/ou présenter le lors de votre entrevue technique.
 
-## Create a file
-
-Next, you’ll add a new file to this repository.
-
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+## Qu'est-ce que nous recherchons? Qu'est-ce que cela prouve? 
+* Déterminer votre capacité à faire des hypothèses à partir de requis très limité
+* Déterminer votre capacité à faire des choix technologiques et de design
+* Identifier vos forces
+* Il n'y pas de réussite ou d'échec, cela servira de base de discussion avec vous pour traiter des enjeux spécifiques.
