@@ -31,8 +31,12 @@ Concevoir une application web qui permet à un médecin d'effectuer de la télé
 * Forker ce repo sur Bitbucket.
 * Complète le design et l'implémentation tel que défini et ce, au meilleur de tes compétences.
 * Lorsqu'approprié, ajoute des notes dans ton code pour nous aider à comprendre. Assures-toi que ce soit compréhensible pour l'équipe NOVO.
-* Complètes le travail dans ton repo Git personnel et envoies-nous le résultat et/ou présentes le lors de ton entrevue technique.
-* Tente d'accomplir le maximum en 8h de travail en tablant d'abord sur tes forces.
+* Complètes le travail dans ton repo Git personnel et envoies-nous le résultat 
+* Tente d'accomplir le maximum en 8h de travail en tablant d'abord sur tes forces. 
+	* Tu peux faire plus si tu en a envie ou en faire moins si tu manques de temps. 
+	* On va te demander le nombre d'heures fait... ;)
+* On va planifier une rencontre d'une heure ensemble pour que tu nous présente le tout
+	* L'objectif est de comprendre les décisions que tu as pris et leurs motivations
 
 ## Qu'est-ce que nous recherchons? Qu'est-ce que cela prouve? 
 * Déterminer ta capacité à faire des hypothèses à partir de requis très limités
