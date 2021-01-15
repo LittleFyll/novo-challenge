@@ -33,9 +33,9 @@ Concevoir une application web qui permet à un médecin d'effectuer de la télé
 * Lorsqu'approprié, ajoute des notes dans ton code pour nous aider à comprendre. Assures-toi que ce soit compréhensible pour l'équipe NOVO.
 * Complètes le travail dans ton repo Git personnel et envoies-nous le résultat 
 * Tente d'accomplir le plus en 4 à 8h de travail en tablant d'abord sur tes forces. 
-	* Tu peux en faire plus si tu en a envie. On va te demander le nombre d'heures fait de toute manière... ;)
+	* Tu peux en faire plus si tu en a envie. On va te demander le nombre d'heures faites de toute manière... ;)
 	* Tu peux aussi en faire moins (tu as probablement déjà un travail et possiblement un famille). On va juste te poser plus de questions... ;)
-* Prend en note qu'on veut voir le style de code que tu écris et quand approche/pattern/outils/etc. tu utilise en général
+* Prend en note qu'on veut voir le style de code que tu écris, ainsi que les approche/structure/pattern/outils/etc. que tu utilises en général
 * On va planifier une rencontre d'une heure ensemble pour que tu nous présente le tout
 	* L'objectif est de comprendre les décisions que tu as pris et leurs motivations
 
